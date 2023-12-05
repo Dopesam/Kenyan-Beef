@@ -1,0 +1,24 @@
+body{
+background: url('asstets/flat-lay-stone-background-with-spices-steak-cooking 1.png');
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    color: white;
+    font-size: 70px;
+    gap: 40px;
+    position: relative;
+    left: 2700px;
+    bottom: 200px;
+    font-size: 60px;
+}
+.bod{
+    border: solid 1px;
+    border-radius: 40px;
+    padding: 20px;
+    font-size: 30px;
+    position: relative;
+    bottom: 10px;
+}
