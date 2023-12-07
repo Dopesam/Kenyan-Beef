@@ -1,0 +1,29 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.one{
+    display: flex;
+    background: url('Mask group.png');
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    position:absolute ;
+    left: 1100px;
+    top: 120px;
+  display: none;
+  border-top: 100px:
+}
+.shot{
+    align-items: ;
+}
+.body{
+    text-align: center;
+}
+.nani{
+    font-size: 20px;
+}
+    
+    
