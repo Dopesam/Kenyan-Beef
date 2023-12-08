@@ -1,0 +1,285 @@
+
+.body{
+    background-color: antiquewhite;
+}
+.col-6{
+    display: flex;
+    justify-content: center;
+   
+    position: relative;
+    left: 300px;
+}
+
+body{
+
+background: url('assets/flat-lay-stone-background-with-spices-steak-cooking 1.png');
+background-repeat: no-repeat;
+background-size: 100%;
+background-color: rgb(243, 229, 212);
+
+}
+a{
+  color: white;
+  
+}
+.bo{
+  position: relative;
+  bottom:  110px;
+  right: 650px;
+  background-color: transparent;
+  padding: 14px;
+  border-radius: 10px;
+  border-color: rgb(255, 255, 255);
+  font-size: 8px;
+  color: rgb(255, 255, 255);
+  padding-left: 40px;
+  padding-right:40px ;
+  cursor: pointer;
+  
+}
+.ul{
+    list-style: none;
+    display: flex;
+    color: white;
+    font-size: 16px;
+    gap: 40px;
+    position: relative;
+    left: 650px;
+    bottom: 80px;
+ 
+}
+.bod{
+    border: solid 1px;
+    border-radius: 40px;
+    padding: 20px;
+    font-size: 16px;
+    position: relative;
+    bottom: 10px;
+}
+nav {
+color: aliceblue;
+  }
+  
+ 
+  
+  .ul li {
+    display: inline-block;
+    margin-right: 20px;
+   
+
+    text-transform: uppercase;
+    
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .ul li:hover {
+    background-color: rgb(11, 10, 10);
+    margin-bottom: 2px;
+  }
+  
+  .bod {
+ 
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .bod:hover {
+    background-color: #0069d9;
+  }
+  .or{
+    position: relative;
+    top: 30px;
+    right: 10px;
+  }
+  .r{
+    position: relative;
+    left: 250px;
+    top: 30px;
+    
+  }
+  .rr{
+    position: relative;
+    left: 507px;
+    top: 30px;
+  }
+  .ppp{
+    position: relative;
+    bottom: 200px;
+    right: 400px;
+    
+  }
+  .pp{
+    position: relative;
+    bottom: 150px;
+    right: 537px;
+    
+  }
+.ww{
+    position: relative;
+    left: 90px;
+  
+}
+.welcome{
+    color: maroon;
+}
+.tr{
+    position: relative;
+    bottom: 430px;
+    left: 940px;
+   
+}
+hr{
+   border: solid 1px;
+   border-color: maroon;
+   width: 250px;
+   position: relative;
+   bottom: 90px;
+}
+.chini{
+    color: maroon;
+    position: relative;
+    bottom: 100px;
+    left: 544px;
+}
+.discm{
+  color: maroon;
+  position: relative;
+ top: 50px;
+}
+.st{
+  position: relative;
+  bottom: 190px;
+}
+.discover{
+  display: flex;
+  gap: 100px;
+  position: relative;
+  bottom: 700px;
+  right: 40px;
+  padding: 200px;
+  font-size: 11px;
+  padding-left: 120px;
+}
+.line1{
+  border: solid 1px;
+   border-color: maroon;
+   width: 151px;
+   position: relative;
+   bottom: 120px;
+  right: 310px;
+  
+}
+.line3{
+  border: solid 1px;
+   border-color: maroon;
+   width: 451px;
+   position: relative;
+   bottom: 70px;
+  left: 50px;
+}
+.wine{
+  display: flex;
+  gap: 20px;
+  position: relative;
+  bottom: 800px;
+  left: 80px;
+  padding: 200px;
+  font-size: 14px;
+}
+.pic1{
+  position: relative;
+  top: 130px;
+  border-radius: 20px;
+}
+.pic2{
+  position: relative;
+  bottom: 80px;
+  border-radius: 20px;
+}
+.b1{
+  position: relative;
+  bottom:  75px;
+  background-color: transparent;
+  padding: 9px;
+  border-radius: 10px;
+  border-color: maroon;
+  font-size: 8px;
+  color: maroon;
+  padding-left: 40px;
+  padding-right:40px ;
+  cursor: pointer;
+}
+.b2{
+  position: relative;
+  bottom: 90px;
+  background-color: transparent;
+  padding: 9px;
+  border-radius: 10px;
+  border-color: maroon;
+  font-size: 8px;
+  color: maroon;
+  padding-left: 40px;
+  padding-right:40px ;
+}
+.ic1{
+  position: relative;
+  right: 50px;
+ bottom: 150px;
+}
+.ic2{
+  position: relative;
+  right: 70px;
+  bottom: 45px;
+}
+.wn{
+  position: relative;
+  bottom: 100px;
+}
+.i{
+  position: relative;
+right: 730px;
+}
+.o{
+  position: relative;
+  bottom: 530px;
+  left: 650px;
+}
+.p{
+  position: relative;
+  bottom: 100px;
+  left: 30px;
+}
+
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.one{
+    display: flex;
+    background: url('Mask group.png');
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    position:absolute ;
+    left: 1100px;
+    top: 120px;
+  display: none;
+  border-top: 100px:
+}
+.shot{
+    align-items: ;
+}
+.body{
+    text-align: center;
+}
+.nani{
+    font-size: 20px;
+}
+    
+  
+
