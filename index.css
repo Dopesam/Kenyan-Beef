@@ -1,3 +1,15 @@
+
+.body{
+    background-color: antiquewhite;
+}
+.col-6{
+    display: flex;
+    justify-content: center;
+   
+    position: relative;
+    left: 300px;
+}
+
 body{
 
 background: url('assets/flat-lay-stone-background-with-spices-steak-cooking 1.png');
@@ -241,7 +253,7 @@ right: 730px;
   bottom: 100px;
   left: 30px;
 }
-=======
+
     background-repeat: no-repeat;
     background-size: cover;
   
@@ -269,5 +281,5 @@ right: 730px;
     font-size: 20px;
 }
     
-    
+  
 
